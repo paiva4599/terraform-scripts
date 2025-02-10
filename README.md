@@ -1,5 +1,8 @@
-# Terraform
-## Technologies
+# Terraform - Learning Repository
+![Challenge (2)](https://github.com/user-attachments/assets/ad7e98b2-1ea4-414d-9e36-a0857715a4bf)
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+
 
 ## What is it?
 Terraform is an **Infrastructure as Code (IaC)** tool developed by HashiCorp that allows users to define and manage cloud infrastructure using a declarative configuration language. It enables the provisioning, updating, and destruction of infrastructure across multiple cloud providers like AWS, Azure, and Google Cloud. 
